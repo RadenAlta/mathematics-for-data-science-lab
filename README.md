@@ -3,7 +3,8 @@
 **Naive Bayes · Probability distributions · Hypothesis testing · A/B experiments**
 
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Course review](https://img.shields.io/badge/Dicoding-Advanced%20%284.0%2F4.0%29-16803c)](https://www.dicoding.com/academies/831)
+[![Verified certificate](https://img.shields.io/badge/Dicoding-Certificate%20Verified-00796b)](https://www.dicoding.com/certificates/GRX503J6RZ0M)
+[![Course review](https://img.shields.io/badge/Submission-Advanced%20%284.0%2F4.0%29-16803c)](https://www.dicoding.com/certificates/GRX503J6RZ0M)
 ![Knowledge Check](https://img.shields.io/badge/Knowledge%20Check-15%2F15-16803c)
 
 A reproducible **three-case-study portfolio** demonstrating how probability distributions, classification and frequentist hypothesis tests can support data science decisions. Created by **Raden Dimas Taufik Rahmat** (GitHub: [@RadenAlta](https://github.com/RadenAlta)) following the Dicoding **Belajar Matematika untuk Data Science** course as part of the **Asah 2026 — Data Science Specialist** learning programme.
@@ -53,7 +54,17 @@ In the **official submitted assignment** (separate from this public reimplementa
 
 - Reviewed submission: **18 November 2026**; Submission ID **5135103**.
 - Course: [Belajar Matematika untuk Data Science (Dicoding Academy 831)](https://www.dicoding.com/academies/831).
-- Certificate link shared for the completed course: [Dicoding certificate page](https://www.dicoding.com/academies/831/certificates/3913658).
+- **Official certificate:** [GRX503J6RZ0M — verify on Dicoding](https://www.dicoding.com/certificates/GRX503J6RZ0M).
+- **Certificate holder:** Raden Dimas Taufik Rahmat. **Issued:** 18 November 2026. **Valid until:** 18 November 2029.
+- **Course level:** Intermediate (*Menengah*). **Published curriculum workload:** 70 hours (not a claim about individual logged study time).
+- **Coverage:** univariate/multivariate data, probability, statistical distributions and Monte Carlo, inferential statistics, A/B testing with Python, and mathematics in AI.
+- **Evidence distinction:** the certificate attests course completion; **Advanced 4.0/4.0** and **Knowledge Check 15/15** come from the separate official submission review.
+
+### Official completion certificate
+
+[![Official Dicoding completion certificate — GRX503J6RZ0M](assets/figures/05-dicoding-certificate.png)](https://www.dicoding.com/certificates/GRX503J6RZ0M)
+
+[Verify the certificate on Dicoding ↗](https://www.dicoding.com/certificates/GRX503J6RZ0M) · [Credential details](certificates/README.md)
 
 ![Official Knowledge Check outcome, redrawn as a summary graphic](assets/figures/04-course-achievement.png)
 

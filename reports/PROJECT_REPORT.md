@@ -6,6 +6,10 @@ This project presents three independently recreated statistical examples based o
 
 The **course outcome** (Advanced, 4.0/4.0; 15/15 Knowledge Check) is taken from the actual reviewer feedback reported by the learner. The **recreated portfolio experiment metrics** below are calculated by executing the independent source code in this repository. The two must not be conflated.
 
+## Verified course credential
+
+The course completion credential for **Belajar Matematika untuk Data Science** is publicly verifiable as [Dicoding certificate GRX503J6RZ0M](https://www.dicoding.com/certificates/GRX503J6RZ0M). Issued **18 November 2026**, valid through **18 November 2029**, for an **Intermediate** course with a **70-hour published curriculum**. This is curriculum workload, not a measured individual study duration. Official assignment review scores **Advanced 4.0/4.0** and **Knowledge Check 15/15** were supplied separately from the graduation certificate.
+
 ## 1 — Bird classification
 
 **Problem:** classify three synthetic bird species using measurements whose class-conditional distributions differ.
